@@ -21,5 +21,9 @@ class teste{
    $dbname = "";
     }
 
+function addfn{
+	var $fn = 123321;
+
+}
 
 ?>
