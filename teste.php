@@ -15,10 +15,10 @@ class teste{
 
 
 
-   $servername = "";
-   $username = "";
-   $password = "";
-   $dbname = "";
+   $servername = "aa";
+   $username = "aa";
+   $password = "aa";
+   $dbname = "aa";
     }
 
 
