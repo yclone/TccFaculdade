@@ -15,14 +15,22 @@ class teste{
 
 
 
-   $servername = "";
-   $username = "";
-   $password = "";
-   $dbname = "";
+   $servername = "aa";
+   $username = "aa";
+   $password = "aa";
+   $dbname = "aa";
     }
 
 function addfn{
 	var $fn = 123321;
+
+}
+
+function nova(Condicao){
+
+	if(Condicao){
+		echo "OK";
+	}
 
 }
 
