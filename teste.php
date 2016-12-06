@@ -22,4 +22,12 @@ class teste{
     }
 
 
+function nova(Condicao){
+
+	if(Condicao){
+		echo "OK";
+	}
+
+}
+
 ?>
