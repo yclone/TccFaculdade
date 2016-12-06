@@ -1,0 +1,275 @@
+ @font-face { font-family: "Segoe UI Semibold";}
+        
+body{
+  font-family: "Segoe UI Semibold";
+  background: #DCDCDC;
+  color: #fff;
+  padding:20px;
+}
+
+.pagina{
+  width:100%;
+  position: relative;
+  height:100%;   
+}
+
+.linha{
+  width:auto;
+  padding:1px;
+  height:105px; 
+  display:table;
+
+}
+
+
+.textStileVoto{
+    font-family: "Segoe UI Semibold", Times, serif;
+     font-size: 250%;
+
+}
+
+.tile{
+    font-family: "Segoe UI Semibold", Times, serif;
+  height:100px;    
+  width:100px;   
+  float:left;
+  margin:0 5px 0 0;
+  padding:2px;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+.tileLargo{
+
+  width:205px;
+   height:150px; 
+
+}
+
+.tileXLargo{
+
+  background-color: #ffffff;
+  width:415px;
+   height:70px;  
+}
+
+
+
+.tileXLargo p{
+    font-family: "Segoe UI Semibold", Times, serif;
+color: black;
+display:inline;
+
+
+}
+
+.tileXLargo div{
+  font-family: "Segoe UI Semibold", Times, serif;
+position: absolute;
+color: #9b9a9a;
+margin-top: -70px;
+
+}
+
+.nome{
+    background-color: #ffffff;
+  width:415px;
+   height:20px;  
+}
+
+.tileMin{
+
+text-align: center;
+  width:205px;
+  height:40px;
+   margin-top: -2px;
+   margin-left: -2px;
+  padding:0px;
+}
+
+.tileMin p{
+  position: relative;
+    top: -10px;
+
+}
+.qdr{
+
+ width:50px;
+  height:20px;
+   margin-top: 0px;
+   margin-left: 160px;
+  padding:0px;
+}
+
+.qdr i{
+margin-top: -3px; 
+margin-left: 5px; 
+padding: 15px 0; 
+
+}
+
+.qdr p{
+font-size: 12px;
+}
+
+#ptxt {
+
+  color: black;
+  opacity: 0.5;
+  font-size: 18px;
+  text-align: center;
+  margin-top: -15px;
+
+}
+
+#pnum{
+  color: black;
+  opacity: 0.5;
+    font-size: 50px;
+}
+
+
+  .chumbo{
+   background-color: #2b2b2b;
+}
+
+  .preto{
+   background-color: #101011;
+}
+
+.amarelo{
+       background:#c6bc06;
+   }
+
+   .amareloEsc{
+       background:#8c830c;
+   }
+   
+   .vermelho{
+       background:#CC3636;   
+   }
+
+   .vermelhoEsc{
+       background:#962323;   
+   }
+      
+
+     .laranja{
+   background-color: #FFA500;
+}
+
+
+
+  .laranjaEsc{
+   background-color: #FF8C00;
+}
+
+   .ciano{
+       background:#15b8bc;
+   }
+
+
+   .cianoEsc{
+       background:#137c7c;
+   }
+
+
+   .azulEscuro{
+       background:#191970;
+   }
+   
+   .verde{
+       background-color: #a3bd31;
+   }
+
+
+  .roxo{
+   background-color: #403a9b;
+}
+
+
+  .roxoEsc{
+   background-color: #232368;
+}
+
+
+    .tile img{
+      width:50px;
+      margin:10px 25px 0 25px
+  }
+   
+  .tileLargo img {
+      margin:20px 77px 0 77px
+  }
+
+
+
+
+.apagada {
+  background-image:url('imgs/estrela-apagada.png');
+  width: 32px;
+  background-size: 32px 32px;
+  height: 32px;
+  cursor: pointer;
+}
+
+.destaque {
+  background-image: url('imgs/estrela-acessa.png');
+  width: 32px;
+  height: 32px;
+   background-size: 32px 32px;
+  cursor: pointer;
+}
+
+
+
+.tileRodape{
+
+    background-color: #2f4f67;
+    margin-top: 30px;
+    height:100px; 
+
+  border-right: 2px #7db5d8 solid;
+  
+}
+
+.tileRodape p{
+  margin: 0;
+
+}
+
+
+    
+#prod{
+  color: #7db5d8;
+  opacity: 0.5;
+    font-size: 30px;
+    
+}
+
+ .footer {
+width: 100%;
+bottom: 0;
+
+    }
+
+
+ .footer1 {
+    background-color: #365b77;
+    height:50px; 
+    }
+
+
+ .footer2 {
+background-color: #2f4f67;
+height:200px; 
+    }
+
+
+ .footer3 {
+background-color: #333b42;
+height:80px; 
+    }
+
+
